@@ -1,0 +1,11 @@
+# Chrome profile with live login sessions + cookie snapshot — never commit
+.chrome-profile/
+.downloads/
+# Downloaded bills and prepared expense PDFs (personal data)
+/bills/
+# Page dumps from `bills inspect` (personal data)
+.inspect/
+# Personal claim settings (amounts, expense types); see bills.example.json
+/bills.json
+/bin/
+.DS_Store

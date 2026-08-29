@@ -1,0 +1,12 @@
+{
+  "expense": {
+    "xfinity": {
+      "expense_type": "Home Internet",
+      "amount": 100
+    },
+    "verizon": {
+      "expense_type": "Mobile Phone",
+      "amount": 50
+    }
+  }
+}
